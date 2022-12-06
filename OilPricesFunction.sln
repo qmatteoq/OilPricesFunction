@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OilPricesFunction", "OilPricesFunction\OilPricesFunction.csproj", "{DA07F7CF-A022-4849-92D5-CFE1448E08CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC47C78-05A3-49CE-A93E-B876FEB264A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC47C78-05A3-49CE-A93E-B876FEB264A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC47C78-05A3-49CE-A93E-B876FEB264A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC47C78-05A3-49CE-A93E-B876FEB264A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA07F7CF-A022-4849-92D5-CFE1448E08CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA07F7CF-A022-4849-92D5-CFE1448E08CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA07F7CF-A022-4849-92D5-CFE1448E08CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA07F7CF-A022-4849-92D5-CFE1448E08CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C630148A-2369-4FDF-960F-E6D558CAB752}
+	EndGlobalSection
+EndGlobal
